@@ -1,0 +1,48 @@
+h1 {
+    color: black;
+    font-family: serif;
+    opacity: 0.7;
+    background-color: silver;
+    border-left: darkblue;
+    font-style: oblique;
+    font-size: 34px;
+}
+p {
+    color: rgba(172, 169, 169, 0.767);
+    font-size: large;
+    font-style: italic;
+    background-color: black;
+}
+h2 {
+    color: rgba(172, 169, 169, 0.767);
+    font-size: large;
+    font-style: italic;
+    background-color: black;
+}
+header {
+    font-size: 64px;
+    font-family: serif;
+    background-color: silver;
+    text-align: center;
+    text-decoration: underline;
+}
+body {
+    background-image: url(Bliss.1497349801.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.IBM {
+    color: black;
+    font-family: serif;
+    opacity: 0.7;
+    background-color: silver;
+    border-left: darkblue;
+    font-style: oblique;
+    font-size: 34px;
+}
+#1 {
+    color: rgba(172, 169, 169, 0.767);
+    font-size: large;
+    font-style: italic;
+    background-color: black;
+}
